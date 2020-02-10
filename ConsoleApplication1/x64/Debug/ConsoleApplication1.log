@@ -1,0 +1,11 @@
+﻿  BlockChain.cpp
+  CasteVote.cpp
+  ConsoleApplication1.cpp
+  RSAalgorithm.cpp
+C:\Users\CohleM\Documents\ConsoleApplication1\ConsoleApplication1\RSAalgorithm.cpp(30): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\CohleM\Documents\ConsoleApplication1\ConsoleApplication1\RSAalgorithm.cpp(110): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\CohleM\Documents\ConsoleApplication1\ConsoleApplication1\RSAalgorithm.cpp(131): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+C:\Users\CohleM\Documents\ConsoleApplication1\ConsoleApplication1\RSAalgorithm.cpp(151): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+  Generating Code...
+C:\Users\CohleM\Documents\ConsoleApplication1\ConsoleApplication1\BlockChain.cpp(75): warning C4715: 'Blockchain::isBlockValid': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\CohleM\Documents\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
