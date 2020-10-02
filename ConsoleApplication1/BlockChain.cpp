@@ -28,7 +28,7 @@ string Block::setTime()
 {
 	time_t currentTime = time(0);
 	char* dt = ctime(&currentTime);
-	return dt;
+	return dt; //returning time
 }
 //Calculating the hash with the help of hasher function
 string Block::hasher(const std::string & src)
